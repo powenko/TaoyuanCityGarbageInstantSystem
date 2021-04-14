@@ -1,10 +1,21 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
+
+#阿貝到此一遊20210414__
+#
+#
+#
+#
+
+
 __author__ = "Powen Ko, www.powenko.com"
 """
 Ivy
 """
-Anura2
+<<<<<<< HEAD
+Anura3
+=======
+>>>>>>> f63551b1d117a5f80b861f167063d58805862cad
 """
 參考資料:
 https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=b3abedf0-aeae-4523-a804-6e807cbad589
@@ -16,7 +27,7 @@ https://data.gov.tw/dataset/43963
 # ,RouteID(行駛路線),GoBack(去返程[1=去程,2=返程]),
 # Longitude(所在位置緯度),Latitude(所在位置經度),Speed(車速)
 
-
+"測試測試"
 
 
 """
