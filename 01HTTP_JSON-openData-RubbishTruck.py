@@ -12,10 +12,7 @@ __author__ = "Powen Ko, www.powenko.com"
 """
 Ivy
 """
-<<<<<<< HEAD
 Anura3
-=======
->>>>>>> f63551b1d117a5f80b861f167063d58805862cad
 """
 參考資料:
 https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=b3abedf0-aeae-4523-a804-6e807cbad589
