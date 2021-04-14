@@ -32,10 +32,14 @@ except Exception:
 import ssl
 context = ssl._create_unverified_context()
 
+<<<<<<< HEAD
 print("Version:3")
 
 
 
+=======
+print("Version:1")
+>>>>>>> parent of 9779a53 (print 2)
 
 # dicDutyStatus={"0":"執勤","1":"開始","2":"結束","90":"=不明"}
 
