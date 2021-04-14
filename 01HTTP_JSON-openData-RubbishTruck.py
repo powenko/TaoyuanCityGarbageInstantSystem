@@ -32,7 +32,10 @@ except Exception:
 import ssl
 context = ssl._create_unverified_context()
 
-print("Version:1")
+print("Version:2")
+
+
+
 
 # dicDutyStatus={"0":"執勤","1":"開始","2":"結束","90":"=不明"}
 
