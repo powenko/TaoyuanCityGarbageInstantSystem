@@ -33,10 +33,14 @@ import ssl
 context = ssl._create_unverified_context()
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Version:3")
 
 
 
+=======
+print("Version:1")
+>>>>>>> parent of 9779a53 (print 2)
 =======
 print("Version:1")
 >>>>>>> parent of 9779a53 (print 2)
