@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
 __author__ = "Powen Ko, www.powenko.com"
-#到此一遊
+
 """
 參考資料:
 https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=b3abedf0-aeae-4523-a804-6e807cbad589
@@ -13,7 +13,7 @@ https://data.gov.tw/dataset/43963
 # ,RouteID(行駛路線),GoBack(去返程[1=去程,2=返程]),
 # Longitude(所在位置緯度),Latitude(所在位置經度),Speed(車速)
 
-
+"測試測試"
 
 
 """
